@@ -1,0 +1,107 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>sneakers LOP</title>
+<link rel="stylesheet" href="s.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
+</head>
+
+<body>
+			
+	<nav>
+	<div class="container">
+	  <div class="nav-con">
+			<div class="logo">
+			<p><a href="sneakers33.html"><img src="images-removebg-preview.png" width="132" height="109"></a></p>
+            </div>
+	  </div>
+			<ul class="menu">
+				<li><a href="sneakers33.html">หน้าแรก</a></li>
+				<li><a href="nike.html">NIKE</a></li>
+				<li><a href="Adidas.html">Adidas</a></li>
+				<li><a href="#">ติดต่อ</a></li>
+				<li><a href="#">อื่นๆ</a></li>
+			</ul>
+		</div>	
+	</nav>
+		
+	<section class="banner">
+		<button class="banner-btn">เพิ่มเติม</button>
+	</section>
+	
+	<section class="blog">
+		<div class="containe">
+			<div class="blog-con">
+			
+			</div>
+		</div>
+	
+	</section>
+		<section class="cta">
+			<div class="container">
+				<div class="cta-con"></div>
+					<div class="cta-title">
+						<p><strong>Get shopping</strong></p>				
+				</div>
+					<div class="cta-btn-box">
+	</div>          
+					<a href="https://www.iamsnkrs.com/sneaker/sneakers-meaning/" class="cta-btn"> Get product</a>
+			</div>
+	</section>
+	
+	<section class="search">
+		<div class="container">
+		<div class="search-con">
+			<div class="search-title">
+				<h3>Lorem iqsum dolor sit amet</h3>
+				<p>Lorem iqsum dolor sit amet,consectetue</p>
+				<div class="search-input">
+					<input type="text" class="search-text"placceholder="Search product">
+					<button type="submit" class="search-submit"><i class="bi bi-search"></i></button>
+				</div>
+			</div>
+			</div>
+		</div>
+	</section>
+	<footer>
+		<div class="container">
+			<div class="footer-con">
+				<div class="footer-items">
+					<h3>SimpleWedsite</h3>
+				</div>
+				<div class="footer-items">
+					<h3>sample menu</h3>
+					<ul>
+					<li><a href="#">Menu</a></li>
+					<li><a href="#">Menu</a></li>
+					<li><a href="#">Menu</a></li>
+					<li><a href="#">Menu</a></li>
+					</ul>
+				</div>
+				<div class="footer-items">
+					<h3>ช่องทางการติดต่อ</h3>
+					<ul>
+					<li><a href="#">Menu</a></li>
+					<li><a href="#">Menu</a></li>
+					<li><a href="#">Menu</a></li>
+					<li><a href="#">Menu</a></li>
+					</ul>
+				</div>
+				<div class="footer-items">
+					<h3> Our companyy</h3>
+					<ul>
+					<li><i class="bi bi-instagram"></i></li>
+					<li><i class="bi bi-facebook"></i></li>	
+					<li><i  class="bi bi-youtube"></i></li>
+					</ul>
+				</div> 
+				
+			</div>
+	</div>
+	
+	
+	</footer>
+		
+</body>
+</html>
